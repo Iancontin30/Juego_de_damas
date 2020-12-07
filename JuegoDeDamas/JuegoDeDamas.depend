@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607305222 source:c:\users\ianco\desktop\fundamentos de la programacion\juegodedamas\main.c
+	<stdio.h>
+	<stdlib.h>
+
